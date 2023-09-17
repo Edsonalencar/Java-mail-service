@@ -12,3 +12,12 @@
     <br/>
   </p>
 </p>
+
+
+
+##🛠️ Construído com
+
+- Java
+- Spring
+- AWS-SES
+- Clean architecture

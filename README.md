@@ -7,7 +7,7 @@
   <h3 align="center">Mail Service</h3>
 
   <p align="center">
-    Serviço genérico de e-mail construído com Spring e Java, aplicando clean arquiteture. Por padrão foi usado o provedor AWS-SES, mas o projeto independe de um provedor específico.
+    Serviço genérico de e-mail construído com Spring e Java, aplicando clean architecture Por padrão foi usado o provedor AWS-SES, mas o projeto independe de um provedor específico.
     <br/>
     <br/>
   </p>
